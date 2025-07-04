@@ -1,0 +1,14 @@
+Results for: laberinto.wav
+  - Pearson Correlation: -0.2294
+  - Covariance: -0.0037
+  - Mean Squared Error (MSE): 0.040272
+  - Cross-Correlation Peak: 1228.4489
+  - Spectral Distance (Euclidean): 42.0469
+
+Results for: tedoyunacancion.wav
+  - Pearson Correlation: 0.0119
+  - Covariance: 0.0003
+  - Mean Squared Error (MSE): 0.043282
+  - Cross-Correlation Peak: 84.4566
+  - Spectral Distance (Euclidean): 76.3975
+
